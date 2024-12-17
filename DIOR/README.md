@@ -1,0 +1,1 @@
+The DIOR dataset can be downloaded from [here](https://pan.baidu.com/s/1aSKIki4XcCQCTCO5pX9q3g?pwd=bwmv) (extraction code: bwmv).
